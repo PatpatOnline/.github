@@ -1,6 +1,6 @@
 # Hello there!👋
 
-This is where we build **Patpat Online** &mdash; the all-in-one platform for _Object-oriented Programming (Java)_ course at BUAA School of Software. 😎
+This is where we build **Patpat Online**. 😎
 
 🎈Fun fact, Patpat Online is built with:
 
